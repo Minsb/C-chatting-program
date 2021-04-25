@@ -1,5 +1,6 @@
 this program is multi-user chatting program based on C Linux  
-mthread is based on multithread and mplexing is based on multiplexing server and both use TCP/IP protocol.  
+mthread is based on multithread and mplexing is based on multiplexing server  
+both use TCP/IP protocol.  
 
 //command
 1.start server with port number (ex : ./server 9190)  
